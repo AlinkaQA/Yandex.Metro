@@ -124,13 +124,23 @@
 </details>
 
 ## Инструменты
+
+<details>
+  
 <p align="left"> 
   <a href="https://docs.google.com/" target="_blank" rel="noreferrer"><img src="https://w7.pngwing.com/pngs/240/1015/png-transparent-g-suite-google-docs-google-angle-rectangle-logo.png" width="36" height="36" alt="Google Sheets" /></a>
   <a href="https://www.jetbrains.com/youtrack/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/YouTrack_Icon.png" width="36" height="36" alt="Youtrack" /></a>
   <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Android_Studio_icon_%282023%29.svg/800px-Android_Studio_icon_%282023%29.svg.png" width="36" height="36" alt="Android_Studio" /></a>
 </p> 
 
+***
+
+</details>
+
 ## Процесс работы
+
+<details>
+<summary>Проектирование тестовой документации </summary>
 
 ### Проектирование тестовой документации
 ### Задача 1 
@@ -149,8 +159,17 @@
 
 <img width="468" alt="Снимок экрана 2025-01-22 в 19 59 50" src="https://github.com/user-attachments/assets/0c59215b-e266-47d5-a275-79a8968b3afb" />
 
+***
+
+</details>
+
 ## Выполнение тестов
+
+<details>
+<summary>Ссылка </summary>
 
 [Тестовая документация с кликабельными ссылками на баг-репорты](https://docs.google.com/spreadsheets/d/1OZEaJvCLofqxhJ3ZyGN7piBPb0uXu6AtlsPfjD_qWL4/edit?gid=899462569#gid=899462569)
 
+***
 
+</details>
